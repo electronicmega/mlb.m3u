@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1, MLB Canal 29
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/embed/ch29.php
+https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=bHo7KhUZr7yO0a_rDONkNlTIXpfafH1VGQ8tZauR5lk&e=1758677674
+
+#EXTINF:-1, MLB CANAL 21
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/embed/ch21.php
+https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=u4PjERs586NFw9QAKBcoXjTmD_SLvewD6dewaQhM_bI&e=1758678114
+
+#EXTINF:-1, MLB CANAL 15
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/embed/ch15.php
+https://mainstreams.pro/hls/dazhfiach15.m3u8?st=-CFzeyzozV-iVPSIPffwBM0baRFBsHAw83UeCEaJSgo&e=1758678287
